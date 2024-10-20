@@ -1,4 +1,4 @@
-# Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
+# Weather Monitoring
 
 The goal of this project is to develop a real-time data processing system that continuously monitors weather conditions and provides summarized insights using rollups and aggregates. The system will utilize data from the OpenWeatherMap API to ensure accurate and timely information.
 
